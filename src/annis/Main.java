@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Adding one in the middle.");
         System.out.println("Another one in the middle.");
         System.out.println("Another test.");
+        System.out.println("One more for good measure.");
     }
 }
