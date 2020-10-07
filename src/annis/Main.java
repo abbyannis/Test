@@ -1,5 +1,8 @@
 package annis;
 
+/**
+ * These are the best comments.
+ */
 public class Main {
 
     public static void main(String[] args) {
